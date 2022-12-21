@@ -7,7 +7,7 @@
 Praticar CSS
 
 ## Link relacionado
-### [🔗Clique para acessar o projeto](https://swaveng.github.io/projeto-alura-books/)
+### [🔗Clique para acessar o projeto](https://ngemir.github.io/projeto-alura-books/)
 
  [<h3><img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" width="30px">
  Figma</h3>](https://www.figma.com/file/sSMbIqKaGBd66Y8roxTk2p/AluraBooks)
